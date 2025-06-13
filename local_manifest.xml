@@ -5,10 +5,10 @@
         fetch="https://github.com/" />
   
     <!-- Device Tree -->
-    <project name="unasir008/android_device_samsung_a12" path="device/samsung/a12" remote="github" revision="Lineage-19.1" />
+    <project name="unasir008/android_device_samsung_a12" path="device/samsung/a12" remote="github" revision="Lineage-22.2" />
 
-    <!-- Vendor Tree -->
-    <project name="unasir008/android_vendor_samsung_a12" path="vendor/samsung/a12" remote="github" revision="Lineage-19.1" />
+    <!-- Vendor Lpm Tree -->
+    <project name="unasir008/android_vendor_samsung_lpm-p35" path="vendor/samsung/a12" remote="github" revision="Lineage-22.2" />
 
     <!-- Kernel Source -->
     <project name="unasir008/android_kernel_samsung_a12" path="kernel/samsung/a12" remote="github" revision="a125f-s6" />
