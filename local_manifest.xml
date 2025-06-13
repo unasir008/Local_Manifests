@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"
+        fetch="https://github.com/" />
+  
+    <!-- Device Tree -->
+    <project name="unasir008/android_device_samsung_a12" path="device/samsung/a12" remote="github" revision="Lineage-19.1" />
+
+    <!-- Vendor Tree -->
+    <project name="unasir008/android_vendor_samsung_a12" path="vendor/samsung/a12" remote="github" revision="Lineage-19.1" />
+
+    <!-- Kernel Source -->
+    <project name="unasir008/android_kernel_samsung_a12" path="kernel/samsung/a12" remote="github" revision="a125f-s6" />
+
+</manifest
