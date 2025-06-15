@@ -16,4 +16,4 @@
   <!-- vendor lineage-priv Tree -->
     <project name="unasir008/android_vendor_lineage-priv_keys" path="vendor/lineage-priv/keys" remote="github" revision="main" />
 
-</manifest
+</manifest>
