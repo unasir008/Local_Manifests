@@ -13,4 +13,7 @@
     <!-- Kernel Source -->
     <project name="unasir008/android_kernel_samsung_a12" path="kernel/samsung/a12" remote="github" revision="a125f-s6" />
 
+  <!-- vendor lineage-priv Tree -->
+    <project name="unasir008/android_vendor_lineage-priv_keys" path="vendor/lineage-priv/keys" remote="github" revision="main" />
+
 </manifest
